@@ -17,7 +17,6 @@ The **telecom industry** invests heavily in acquiring customers, making **retent
 ✅ **Customer Demographics & Usage Patterns**  
 ✅ **Contract Length & Tenure Distribution**  
 ✅ **Revenue Impact of Churn**  
-✅ **Predictive Model: At-Risk Customers** *(if applicable)*  
 
 ## 🛠️ Tools & Technologies  
 - **Power BI** – Interactive dashboards & data visualization  
